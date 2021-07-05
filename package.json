@@ -1,0 +1,15 @@
+{
+  "name": "easy-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node test.js"
+  },
+  "keywords": ["easy", "webhook", "discord", "discord-webhook"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
