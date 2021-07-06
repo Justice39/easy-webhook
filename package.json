@@ -1,15 +1,31 @@
 {
-  "name": "easy-webhook",
+  "name": "discord-easy-webhook",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "cd test && node test.js"
   },
-  "keywords": ["easy", "webhook", "discord", "discord-webhook"],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "request": "^2.88.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justiceee1337/easy-webhook.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-webhook",
+    "easy-webhook"
+  ],
+  "author": "justicee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Justiceee1337/easy-webhook/issues"
+  },
+  "homepage": "https://github.com/Justiceee1337/easy-webhook#readme"
 }
