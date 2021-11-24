@@ -25,4 +25,4 @@ options.avatar_url | `string` | true | The avatarURL of the webhook
 
 # You need help ?
 
-[Click Here!](https://discord.gg/AJV8P9qTHJ)
+[Click Here!](https://discord.com/users/770600645761695756)
